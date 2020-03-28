@@ -4,7 +4,8 @@ Botond's home repo
 [![Join the chat at https://gitter.im/bsiposkj/community](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/bsiposkj/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![GitHub followers](https://img.shields.io/github/followers/bsipos?label=Follow&style=social)](https://github.com/bsipos)
 [![Twitter Follow](https://img.shields.io/twitter/follow/boti_ka.svg?style=social&label=Follow)](https://twitter.com/boti_ka) 
-<span style="vertical-align: top; padding-bottom: 5px;"><a href="https://scholar.google.com/citations?user=_hAYjH0AAAAJ&hl=en">Publications</a></span> 
+[![Medium blog](https://img.shields.io/badge/blog-medium-blue)](https://medium.com/@boti_ka)
+[![Publications](https://img.shields.io/badge/papers-scholar-red)](https://scholar.google.com/citations?user=_hAYjH0AAAAJ&hl=en)
 
 
 
