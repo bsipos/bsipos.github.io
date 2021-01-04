@@ -2,7 +2,6 @@ Botond's home repo
 ------------------
 
 [![GitHub followers](https://img.shields.io/github/followers/bsipos?label=Follow&style=social)](https://github.com/bsipos)
-[![Medium blog](https://img.shields.io/badge/blog-medium-blue)](https://medium.com/@boti_ka)
 [![Publications](https://img.shields.io/badge/papers-scholar-red)](https://scholar.google.com/citations?user=_hAYjH0AAAAJ&hl=en)
 
 
